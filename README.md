@@ -4,5 +4,5 @@ Diabetics Prediction System based on Life Style
 ### Node-RED Web UI URL:
 https://diabetics-prediction-system-based-on-life-style.eu-gb.mybluemix.net/ui
 
-### Project Demonistration Link:
+### Project Demonstration Link:
 https://drive.google.com/file/d/11bT6zW2TZ6Hr1DYnvF2M88Gl8RGjukmB/view?usp=sharing
